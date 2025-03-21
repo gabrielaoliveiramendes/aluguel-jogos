@@ -1,7 +1,7 @@
 # AluGames
 ## Introdução
 Este projeto tem como objetivo simular um sistema de aluguel de jogos de tabuleiro através de uma interface web. A aplicação permite aos usuários "alugarem" e "devolverem" jogos, proporcionando uma experiência interativa e dinâmica.  
-A parte principal da interatividade da aplicação é desenvolvida em JavaScript, que manipula a interface HTML para criar uma experiência fluida e responsiva.
+Foi implementado sobre uma base já existente, que incluía a estrutura HTML e o design CSS da aplicação, a lógica JavaScript.
 
 ## Funcionalidades JavaScript
 As principais características do código JavaScript incluem:
